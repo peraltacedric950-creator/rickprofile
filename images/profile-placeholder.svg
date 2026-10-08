@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+<rect width="500" height="500" fill="#101419"/>
+<circle cx="250" cy="250" r="180" fill="#090b0e" stroke="#f0b90b" stroke-width="8"/>
+<text x="250" y="235" text-anchor="middle" fill="#f0b90b" font-family="Arial" font-size="32">YOUR</text>
+<text x="250" y="280" text-anchor="middle" fill="#f0b90b" font-family="Arial" font-size="32">PHOTO</text>
+</svg>
